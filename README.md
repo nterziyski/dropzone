@@ -1,3 +1,8 @@
+# Image explorer done with react-Dropzone
+
+This Project is an attempt for a file browser that can display images and let users select them and then export them in a machine or human-friendly format.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
