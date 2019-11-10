@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dropzone/static/css/main.b100e6da.chunk.css",
+    "main.js": "/dropzone/static/js/main.ae7bcd7d.chunk.js",
+    "main.js.map": "/dropzone/static/js/main.ae7bcd7d.chunk.js.map",
+    "runtime-main.js": "/dropzone/static/js/runtime-main.72804842.js",
+    "runtime-main.js.map": "/dropzone/static/js/runtime-main.72804842.js.map",
+    "static/js/2.60bf3c99.chunk.js": "/dropzone/static/js/2.60bf3c99.chunk.js",
+    "static/js/2.60bf3c99.chunk.js.map": "/dropzone/static/js/2.60bf3c99.chunk.js.map",
+    "index.html": "/dropzone/index.html",
+    "precache-manifest.9f966be1c8a8c293ed0b5a953ec98b4a.js": "/dropzone/precache-manifest.9f966be1c8a8c293ed0b5a953ec98b4a.js",
+    "service-worker.js": "/dropzone/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/dropzone/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/dropzone/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72804842.js",
+    "static/js/2.60bf3c99.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.ae7bcd7d.chunk.js"
+  ]
+}
